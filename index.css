@@ -316,7 +316,7 @@ header.ready .right > div:nth-child(2) > p,header.ready .right > div:nth-child(2
 footer .center > div{width:100%;text-align:center;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:var(--text-color);font-family:"Poppins",sans-serif;font-size:90%;}
 footer .center > div > a{color:var(--text-color);margin:0 15px;}
 footer .center > div > a:nth-child(1):after{content:" Facebook";}
-footer .center > div > a:nth-child(2):after{content:" Instagram";}
+footer .center > div > a:nth-child(2):after{content:" E-mail";}
 footer .center > div > a:nth-child(3):after{content:" Twitter";}
 footer .center > div > a:nth-child(4):after{content:" E-mail";}
 footer .right > div{font-family:"Poppins",sans-serif;font-size:70%;}
